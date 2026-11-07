@@ -1,6 +1,5 @@
 <div align="center">
 
-<h1>🌟 小红书AI发布助手</h1>
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-Apache%202.0-4CAF50?style=for-the-badge&logo=apache&logoColor=white) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-2.0.0-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)
 
@@ -28,10 +27,6 @@
 - 🪧 **新增营销模板**：在「🖼️ 封面中心」可选 **营销海报🌟🌟🌟（本地生成 6 张图）/ 促销横幅 / 产品展示** 等
 - 🖼️ **预览/下载体验升级**：首页支持一键打开「封面模板库」，并一键下载 **封面 + 多页内容图**
 - 🎨 **UI 体验优化**：左侧编辑、右侧图片预览，生成流程更顺滑
-
-## 📖 项目简介
-
-> **小红书AI发布助手** 是一个功能强大的自动化内容创作与发布工具，专为小红书平台的内容创作者设计。
 
 🎯 **核心价值**
 - 🧠 **智能创作**: 基于先进AI技术自动生成高质量内容

@@ -423,12 +423,6 @@ XHS_IMG_BOXED_LIST_CARDS=false
 
 ---
 
-## 📞 联系我们
-
-<div align="center">
-
-### 💬 加入我们的社区
-
 <table>
 <tr>
 <td align="center">
@@ -449,10 +443,6 @@ XHS_IMG_BOXED_LIST_CARDS=false
 </table>
 
 <br/>
-
-<img src="https://img.shields.io/badge/📧_邮箱-联系我们-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱"/>
-<img src="https://img.shields.io/badge/💬_微信-在线咨询-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信"/>
-<img src="https://img.shields.io/badge/🐛_问题反馈-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues"/>
 
 </div>
 
@@ -475,13 +465,4 @@ XHS_IMG_BOXED_LIST_CARDS=false
 <img src="https://img.shields.io/badge/📜_许可证-Apache_2.0-4CAF50?style=for-the-badge&logo=apache&logoColor=white" alt="许可证"/>
 
 <br/><br/>
-
----
-
-<sub>🌟 为小红书内容创作者精心打造 | Built with ❤️ for Xiaohongshu content creators</sub>
-
-<br/>
-
-**⭐ 如果这个项目对您有帮助，请给我们一个星标!**
-
 </div>
